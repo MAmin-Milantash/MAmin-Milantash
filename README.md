@@ -24,6 +24,28 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
 </div>
 
+[//]: # (Not currently available )
+[//]: # (<!-- ═══════════════════════════════════════════════════════════════════════════════ -->)
+
+[//]: # (<!-- ✨ SNAKE ANIMATION ✨                                                              -->)
+
+[//]: # (<!-- ═══════════════════════════════════════════════════════════════════════════════ -->)
+
+[//]: # ()
+[//]: # (<div align="center">)
+
+[//]: # (  <picture>)
+
+[//]: # (    <source media="&#40;prefers-color-scheme: dark&#41;" srcset="https://raw.githubusercontent.com/MAmin-Milantash/MAmin-Milantash/output/github-contribution-grid-snake-dark.svg" />)
+
+[//]: # (    <source media="&#40;prefers-color-scheme: light&#41;" srcset="https://raw.githubusercontent.com/MAmin-Milantash/MAmin-Milantash/output/github-contribution-grid-snake.svg" />)
+
+[//]: # (    <img alt="snake animation eating my contributions" src="https://raw.githubusercontent.com/MAmin-Milantash/MAmin-Milantash/output/github-contribution-grid-snake-dark.svg" />)
+
+[//]: # (  </picture>)
+
+[//]: # (</div>)
+
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
