@@ -706,7 +706,7 @@ const mohammadamin: CVEngineer = {
 </h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mohammadamin-milantash/" target="_blank">
+  <a href="https://www.linkedin.com/in/aminmilantash/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=0d1117&style=for-the-badge" height="40" alt="linkedin logo" />
   </a>
   <a href="mailto:mohammadamin.milantash@gmail.com" target="_blank">
