@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:ff4d9d,100:a855f7&height=260&section=header&text=Mohammadamin%20Milantash&fontSize=80&fontAlignY=35&fontColor=ffffff&animation=twinkling&desc=%E2%9A%A1%20Computer%20Vision%20Engineer%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20OCR%20Specialist%20%E2%9A%A1&descAlignY=58&descSize=18" alt="header banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:ff4d9d,100:a855f7&height=260&section=header&text=Amin%20Milantash&fontSize=80&fontAlignY=35&fontColor=ffffff&animation=twinkling&desc=%E2%9A%A1%20AI%20Engineer%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Deep%20Learning%20%E2%9A%A1&descAlignY=58&descSize=18" alt="header banner"/>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://github.com/MAmin-Milantash">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=700&color=00D9FF&center=true&vCenter=true&multiline=false&width=900&height=60&lines=Hey+there+%F0%9F%91%8B+I'm+Mohammadamin;%F0%9F%A4%96+Computer+Vision+%7C+Deep+Learning+Engineer;%F0%9F%9A%80+PyTorch+%E2%80%A2+OpenCV+%E2%80%A2+OCR+%E2%80%A2+VLMs;%E2%9C%A8+Building+intelligent+vision+systems+for+the+real+world;%F0%9F%8F%86+Top+5%25+GPA+%7C+Research+Assistant+%40+ENS+Paris-Saclay" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=700&color=00D9FF&center=true&vCenter=true&multiline=false&width=900&height=60&lines=Hey+there+%F0%9F%91%8B+I'm+Amin+Milantash;%F0%9F%A4%96+AI+Engineer+%7C+Machine+Learning+Specialist;%F0%9F%9A%80+PyTorch+%E2%80%A2+OpenCV+%E2%80%A2+Deep+Learning;%E2%9C%A8+Building+intelligent+systems+with+ML+%26+AI;%F0%9F%8F%86+Top+5%25+GPA+%7C+Research+Assistant+%40+ENS+Paris-Saclay" alt="Typing SVG" />
   </a>
 </div>
 
